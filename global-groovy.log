@@ -1,0 +1,30 @@
+2021-12-06 12:26:02,307 INFO  [log] Chargement des propriÃ©tÃ©s Ã  partir du fichier testprops.csv
+2021-12-06 12:26:02,340 INFO  [log] [01501, 00501, 05500, 01111]
+2021-12-06 12:26:03,599 INFO  [log]  3- Assertions sur le rÃ©sultat du test
+2021-12-06 12:26:03,613 INFO  [log] Le rÃ©sultat est supÃ©rieur Ã  0
+2021-12-06 13:27:25,664 INFO  [log] Chargement des propriÃ©tÃ©s Ã  partir du fichier testprops.csv
+2021-12-06 13:27:25,692 INFO  [log] [01501, 00501, 05500, 01111]
+2021-12-06 13:27:26,945 INFO  [log]  3- Assertions sur le rÃ©sultat du test
+2021-12-06 13:27:26,959 INFO  [log] Le rÃ©sultat est supÃ©rieur Ã  0
+2021-12-06 14:18:05,936 INFO  [log] Chargement des propriÃ©tÃ©s Ã  partir du fichier testprops.csv
+2021-12-06 14:18:05,961 INFO  [log] [01501, 00501, 05500, 01111]
+2021-12-06 14:18:07,191 INFO  [log]  3- Assertions sur le rÃ©sultat du test
+2021-12-06 14:18:07,205 INFO  [log] Le rÃ©sultat est supÃ©rieur Ã  0
+2021-12-06 14:59:07,419 INFO  [log] Chargement des propriétés à partir du fichier testprops.csv
+2021-12-06 14:59:07,439 INFO  [log] [01501, 00501, 05500, 01111]
+2021-12-06 14:59:43,671 INFO  [log] Chargement des propriétés à partir du fichier testprops.csv
+2021-12-06 14:59:43,692 INFO  [log] [01501, 00501, 05500, 01111]
+2021-12-06 15:00:18,199 INFO  [log] Chargement des propriétés à partir du fichier testprops.csv
+2021-12-06 15:00:18,220 INFO  [log] [01501, 00501, 05500, 01111]
+2021-12-06 15:01:30,425 INFO  [log] Chargement des propriétés à partir du fichier testprops.csv
+2021-12-06 15:01:30,445 INFO  [log] [01501, 00501, 05500, 01111]
+2021-12-06 15:05:05,645 INFO  [log] Chargement des propriétés à partir du fichier testprops.csv
+2021-12-06 15:05:05,666 INFO  [log] [01501, 00501, 05500, 01111]
+2021-12-06 15:07:01,827 INFO  [log] Chargement des propriétés à partir du fichier testprops.csv
+2021-12-06 15:07:01,851 INFO  [log] [01501, 00501, 05500, 01111]
+2021-12-06 15:13:24,468 INFO  [log] Chargement des propriétés à partir du fichier testprops.csv
+2021-12-06 15:13:24,489 INFO  [log] [01501, 00501, 05500, 01111]
+2021-12-06 15:17:50,831 INFO  [log] Chargement des propriétés à partir du fichier testprops.csv
+2021-12-06 15:17:50,851 INFO  [log] [01501, 00501, 05500, 01111]
+2021-12-06 15:21:44,055 INFO  [log] Chargement des propriétés à partir du fichier testprops.csv
+2021-12-06 15:21:44,077 INFO  [log] [01501, 00501, 05500, 01111]
